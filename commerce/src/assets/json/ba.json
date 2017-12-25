@@ -1,0 +1,34 @@
+[
+	{
+		"touxian":"./src/assets/images/details_comment/details_comment_03.jpg",
+		"name":"小嘿嘿",
+		"hg":"./src/assets/images/details_comment/details_comment_05.jpg",
+		"nr":"款式很好看，版型好，料子还可以，这个价位来说确实挺好的",
+		"time":"2015-12-15",
+		"img":"./src/assets/images/details_comment/details_comment_10.jpg"
+	},
+	{
+		"touxian":"./src/assets/images/details_comment/details_comment_13.jpg",
+		"name":"五彩颜色",
+		"hg":"./src/assets/images/details_comment/details_comment_16.jpg",
+		"nr":"款式很好看，版型好，料子还可以，这个价位来说确实挺好的",
+		"time":"2015-12-15",
+		"img":"./src/assets/images/details_comment/details_comment_10.jpg"
+	},
+	{
+		"touxian":"./src/assets/images/details_comment/details_comment_03.jpg",
+		"name":"小嘿嘿",
+		"hg":"./src/assets/images/details_comment/details_comment_05.jpg",
+		"nr":"款式很好看，版型好，料子还可以，这个价位来说确实挺好的",
+		"time":"2015-12-15",
+		"img":"./src/assets/images/details_comment/details_comment_10.jpg"
+	},
+	{
+		"touxian":"./src/assets/images/details_comment/details_comment_13.jpg",
+		"name":"五彩颜色",
+		"hg":"./src/assets/images/details_comment/details_comment_16.jpg",
+		"nr":"款式很好看，版型好，料子还可以，这个价位来说确实挺好的",
+		"time":"2015-12-15",
+		"img":"./src/assets/images/details_comment/details_comment_10.jpg"
+	}
+]

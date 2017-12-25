@@ -1,0 +1,28 @@
+[
+	{
+		"pic0":"./src/assets/images/recommend/recommend_10.jpg",
+		"goodsname":"Metabolic夜间瘦 抑制脂肪调理肠道 60袋(特惠价)",
+		"price":"213.00",
+		"parameter":"498.00",
+		"zhi":"日本直邮",
+		"ponper":"118",
+		"che":"./src/assets/images/recommend/recommend_17.jpg"
+	},
+	{
+		"pic0":"./src/assets/images/recommend/recommend_13.jpg",
+		"goodsname":"Metabolic酵母酵素 乳酸菌 减肥排毒 60粒(特惠价)",
+		"price":"136.00",
+		"parameter":"225.00",
+		"zhi":"香港直邮",
+		"ponper":"118",
+		"che":"./src/assets/images/recommend/recommend_17.jpg"},
+	{
+		"pic0":"./src/assets/images/recommend/recommend_15.jpg",
+		"goodsname":"Metabolic生物多糖白芸豆丸瘦身 溶脂60粒(特惠价)",
+		"price":"142.00",
+		"parameter":"298.00",
+		"zhi":"日本直邮",
+		"ponper":"118",
+		"che":"./src/assets/images/recommend/recommend_17.jpg"
+	}
+]

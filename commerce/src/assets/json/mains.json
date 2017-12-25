@@ -1,0 +1,26 @@
+[
+	{
+		"left_img":"./src/assets/images/details/details_33.jpg",
+		"left_p1":"100%原装正品",
+		"left_p2":"所有商品海外正规渠道有售，承诺100%进口原装正品。",
+		"right_img":"./src/assets/images/details/details_36.jpg",
+		"right_p1":"100%海外直供",
+		"right_p2":"商品从海外通过国际物流或者中国报税区发出,物流信息全程可查。"
+	},
+	{
+		"left_img":"./src/assets/images/details/details_40.jpg",
+		"left_p1":"100%无忧退货",
+		"left_p2":"可通过申诉途径要求退货，确保消费者权益得到保障。",
+		"right_img":"./src/assets/images/details/details_41.jpg",
+		"right_p1":"依法纳税",
+		"right_p2":"只要是合法渠道购买进口商品，依法向国家海关申报及纳税。"
+	},
+	{
+		"left_img":"./src/assets/images/details/details_44.jpg",
+		"left_p1":"100%信息保密",
+		"left_p2":"严格保密消费者提供的信息，多重加密技术，保护消费者隐私。",
+		"right_img":"./src/assets/images/details/details_45.jpg",
+		"right_p1":"质量标准",
+		"right_p2":"商品符合原国标准及中国相关法律法规，拒绝不合格商品上架。"
+	}
+]

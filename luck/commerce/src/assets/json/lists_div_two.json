@@ -1,0 +1,22 @@
+[
+	{
+		"goodsname":"日本2H2D冬虫夏草口服液",
+		"description":"强肾 滋补",
+		"pic0":"./src/assets/images/home_images/shopping_47.jpg"
+	},
+	{
+		"goodsname":"Pill box KAORU香体丸",
+		"description":"玫瑰+香草",
+		"pic0":"./src/assets/images/home_images/shopping_50.jpg"
+	},
+	{
+		"goodsname":"Smils美味桃之酵素水",
+		"description":"瘦身养颜",
+		"pic0":"./src/assets/images/home_images/shopping_55.jpg"
+	},
+	{
+		"goodsname":"MetabolicBB胎盘素",
+		"description":"美白 保湿 抗皱",
+		"pic0":"./src/assets/images/home_images/shopping_57.jpg"
+	}
+]

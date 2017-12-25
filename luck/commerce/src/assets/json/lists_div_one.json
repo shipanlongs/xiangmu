@@ -1,0 +1,19 @@
+[
+	{
+		"goodsname":"日本2H2D黑玛卡",
+		"description":"秘鲁有机玛卡重整男人雄风",
+		"pic0":"./src/assets/images/home_images/shopping_37.jpg"
+	},{
+		"goodsname":"MARUEI青汁酸素 (芒果味)",
+		"description":"塑形 调养 养颜",
+		"pic0":"./src/assets/images/home_images/shopping_33.jpg"
+	},{
+		"goodsname":"星期10左旋肉碱",
+		"description":"减肥 塑身",
+		"pic0":"./src/assets/images/home_images/shopping_40.jpg"
+	},{
+		"goodsname":"Metabolicl巴西莓酶素果昔代餐分",
+		"description":"塑身 美容",
+		"pic0":"./src/assets/images/home_images/shopping_42.jpg"
+	}
+]

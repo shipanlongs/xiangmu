@@ -1,0 +1,10 @@
+[
+	{"id":"1","li":"新品上架","img":"./src/assets/images/home_images/shopping_15.jpg"},
+	{"id":"2","li":"排毒养颜","img":"./src/assets/images/home_images/shopping_17.jpg"},
+	{"id":"3","li":"减肥塑形","img":"./src/assets/images/home_images/shopping_19.jpg"},
+	{"id":"4","li":"女士调理","img":"./src/assets/images/home_images/shopping_21.jpg"},
+	{"id":"5","li":"运动营养","img":"./src/assets/images/home_images/shopping_24.jpg"},
+	{"id":"6","li":"心血管健康","img":"./src/assets/images/home_images/shopping_26.jpg"},
+	{"id":"7","li":"男士健康","img":"./src/assets/images/home_images/shopping_28.jpg"},
+	{"id":"8","li":"精品套餐","img":"./src/assets/images/home_images/shopping_30.jpg"}
+]
